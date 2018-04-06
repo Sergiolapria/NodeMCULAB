@@ -1,0 +1,16 @@
+[user]
+	name = Sergio López González
+	email = sergiolapria1975@gmail.com
+[color]
+	status = auto
+	branch = auto
+	diff = auto
+	interactive = auto
+\.DS_Store
+\.classpath
+\.project
+\.settings
+\.metadata/
+Servers/
+target/
+
